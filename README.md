@@ -1,2 +1,2 @@
 # calendar-scripts
-scripts for automating functions in Google suite related to calendaring
+scripts for automating calendaring functions in Google suite
